@@ -56,4 +56,4 @@ http://localhost:8082
 
 ## 📸 Preview
 
-![SkyCast UI](screenshot.png)
+![SkyCast UI](Screenshot.png)
