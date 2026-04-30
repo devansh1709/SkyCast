@@ -56,7 +56,5 @@ http://localhost:8082
 
 ## 📸 Preview
 <p align="center">
-  <img src="skycast-preview.png" width="700"/>
+  <img src="Screenshot.png" width="700"/>
 </p>
-
-![SkyCast UI](Screenshot.png)
