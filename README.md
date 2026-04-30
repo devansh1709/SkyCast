@@ -34,3 +34,20 @@ SkyCast is a full-stack weather dashboard built with Spring Boot and vanilla Jav
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/skycast.git
+```
+2. Navigate to the project folder:
+```bash
+cd skycast
+```
+3. Add your API key in application.properties:
+```bash
+weather.api.key=YOUR_API_KEY
+```
+4. Run the Spring Boot application:
+```bash
+mvn spring-boot:run
+```
+5. Open in browser:
+```bash
+http://localhost:8082
+```
